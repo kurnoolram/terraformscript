@@ -1,7 +1,7 @@
 provider "aws" {
   region                  = "us-east-1"             # N.V
-  access_key              = "AKIAUAS6GJM6ZRX4PZV4"
-  secret_key              = "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"
+  access_key              = "AKIAVD4ZCFG2HGR3MY7K"
+  secret_key              = "aXZptsDhTkg+ChM336OHPzS7HSKMN9tMw3fNJFli"
   # session_token          = "your-session-token" # Only if required
 }
 
